@@ -39,4 +39,8 @@ public class BaseCls {
 	public void tearDown() {
 		//driver.close();
 	}
+	
+	public void testMethod1() {
+		System.out.println("This is for github pusing the code into branch");
+	}
 }
