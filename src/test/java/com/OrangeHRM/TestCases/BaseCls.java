@@ -32,6 +32,7 @@ public class BaseCls {
 		driver.get(url);
 		driver.manage().window().maximize();
 		Thread.sleep(5000);
+		//This is from git hub
 	}
 	
 	@AfterMethod
