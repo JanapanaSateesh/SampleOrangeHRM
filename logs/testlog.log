@@ -1,0 +1,19 @@
+2023-12-12 20:40:58,670 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :Admin in : By.name: username
+2023-12-12 20:41:00,793 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :admin123 in : By.name: password
+2023-12-12 20:41:06,462 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //button[@type='submit']
+2023-12-12 20:41:18,432 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //span[text()='Admin']/..
+2023-12-12 20:41:28,283 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //button[text()=' Add ']
+2023-12-12 20:41:37,420 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: (//label[text()='User Role']/../..//div)[2]//div[text()='-- Select --']
+2023-12-12 20:41:46,520 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //*[text()='ESS']
+2023-12-12 20:41:50,656 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :SateeshM in : By.xpath: //label[text()='Username']/../following-sibling::div//input
+2023-12-12 20:41:54,785 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :abc@123 in : By.xpath: (//input[@type='password'])[1]
+2023-12-12 20:41:58,886 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :abc@123 in : By.xpath: (//input[@type='password'])[2]
+2023-12-16 10:19:03,470 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :Admin in : By.name: username
+2023-12-16 10:19:05,542 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :admin123 in : By.name: password
+2023-12-16 10:19:09,612 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //button[@type='submit']
+2023-12-16 10:19:29,668 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :Admin in : By.name: username
+2023-12-16 10:19:31,787 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :234 in : By.name: password
+2023-12-16 10:19:35,902 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //button[@type='submit']
+2023-12-16 10:20:02,579 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :Admin in : By.name: username
+2023-12-16 10:20:04,680 [main] [INFO ] rootLogger:23:CommandsOrangeHRM.java - Enter the value :admin123 in : By.name: password
+2023-12-16 10:20:08,739 [main] [INFO ] rootLogger:31:CommandsOrangeHRM.java - clicked on locator :By.xpath: //button[@type='submit']
